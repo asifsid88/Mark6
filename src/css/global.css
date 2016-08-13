@@ -1,0 +1,37 @@
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	overflow-x: hidden;
+	display: block;
+}
+
+html > body {
+	font-size: 80%;
+	margin: 0;
+	background: #FFFEFE;
+	background-size: cover;
+}
+
+.vertical-center {
+	line-height: 50px;
+}
+
+.margin-left-0 {
+	margin-left: 0;
+}
+
+.fade {
+	opacity: 0.6;
+}
+
+.show {
+	display: block;
+}
+
+.hide {
+	display: none;
+}

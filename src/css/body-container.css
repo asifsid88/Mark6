@@ -1,0 +1,148 @@
+#mark6-logo {
+	height: 50px;
+}
+
+#mark6-body {
+	margin-top: 4.75em;
+}
+
+.slider_container {
+	max-height: 350px;
+	overflow: hidden;
+	z-index: 1;
+	display: none;
+}
+
+.pure-img {
+	width: 100%;
+}
+
+#mark6-main-container-wrapper {
+	max-width: 100%;
+}
+
+#mark6-main-container {
+	margin: 0 auto;
+	max-width: 960px;
+}
+
+.mark6-product {
+	margin: 3em 1.25em;
+}
+
+.mark6-product-img {
+	border: 8px solid #e0e0c7;
+	margin: 0;
+	margin-bottom: 20px;
+}
+
+.mark6-product-img:hover {
+	border: 8px solid #899752;
+}
+
+.mark6-product-readmore-button {
+	border: none;
+	background-color: #95aa61;
+	margin: 0 20%;
+	padding: 1em;
+	cursor: pointer;
+	text-transform: capitalize;
+	text-align: center;
+	color: #fff;
+}
+
+.mark6-product-readmore-button:hover {
+	background-color: #899752;
+}
+
+#mark6-tabs-panel {
+	text-transform: uppercase;
+	font-size: 1.3em;
+	margin-left: 0.93em;
+	margin-right: 0.85em;
+	color: #777;
+	border-bottom: 8px solid #e0e0c7;
+}
+
+.mark6-tabs {
+	display: inline-block;
+	margin-right: 3.5em;
+	cursor: pointer;
+	line-height: 4em;
+}
+
+#tab3 {
+	margin-right: 0;
+}
+
+.mark6-tabs:hover {
+	color: #899752;
+}
+
+.mark6-tabs-active {
+	margin-bottom: -0.5em;
+	border-bottom: 8px solid #899752;
+	color: #899752;
+	cursor: default;
+}
+
+@media (min-width: 47.999em) {
+	/* Desktop-view **/
+	.mark6-product {
+	}
+
+	.mark6-product-img {
+		max-height: 22.5em;
+		cursor: pointer;
+	}
+
+	.slider_container {
+		display: block;
+		position: fixed;
+		left: 50%;
+		max-width: 100%;
+    	-ms-transform: translate(-50%, 0);
+    	-webkit-transform: translate(-50%, 0);
+    	transform: translate(-50%, 0);
+	}
+
+	#mark6-main-container-wrapper {
+		z-index: 5;
+		position: relative;
+		top: 303px;
+		min-height: 450px;
+		background: #fff;
+	}
+}
+
+@media (max-width: 62.500em) {
+	.mark6-product {
+		margin: 3em 1em;
+	}
+
+	#mark6-tabs-panel {
+		margin-left: 0.75em;
+		margin-right: 2.6em;
+	}
+
+	.mark6-product-img {
+		border: 8px solid #e0e0c7;
+		margin: 0;
+		margin-bottom: 20px;
+	}
+}
+
+@media (max-width: 48.875em) {
+	.mark6-product {
+		margin: 3em 0.9em;
+	}
+
+	.mark6-product-img {
+
+	}
+
+	#mark6-tabs-panel {
+		margin-left: 0.5em;
+		margin-right: 1.18em;
+	}
+}
