@@ -6,7 +6,7 @@
 <body>
     <?php include('modules/menubar.php'); ?>
     <div id="mark6-body">
-        <?php include('templates/homepage.php'); ?>
+        <?php include('templates/productpage.php'); ?>
     </div>
     <?php include('modules/javascripts.php'); ?>
 </body>
