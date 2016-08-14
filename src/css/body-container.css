@@ -7,7 +7,7 @@
 }
 
 .slider_container {
-	max-height: 350px;
+	max-height: 355px;
 	overflow: hidden;
 	z-index: 1;
 	display: none;
@@ -109,7 +109,7 @@
 	#mark6-main-container-wrapper {
 		z-index: 5;
 		position: relative;
-		top: 303px;
+		top: 355px;
 		min-height: 450px;
 		background: #fff;
 	}
