@@ -1,7 +1,7 @@
 <div id="mark6-tabs-panel">
 <?php
-        $str = file_get_contents('models/tabs.json');
-        $tabs = json_decode($str, true);
+        $fileData = file_get_contents('models/tabs.json');
+        $tabs = json_decode($fileData, true);
         $i=1;
         foreach($tabs as $tab) {
             echo '<div id="tab' . $i . '" class="mark6-tabs">' . $tab["title"] . '</div>';
@@ -20,7 +20,7 @@
                 foreach($tab["content"] as $content) {
                     echo '<div class="pure-u-1 pure-u-md-1-6 mark6-product">
                                 <div class="mark6-product-img">
-                                    <img class="pure-img" src="' . $content["imageUrl"] . '" alt="' . $content["altText"] . '" />
+                                    <img class="pure-img" src="' . $content["imageUrl"] . '" alt="' . $content["altText"] . '" title="' . $content["altText"] . '" />
                                 </div>
                                 <div class="mark6-product-readmore-button">' . $content["buttonText"] . '</div>
                             </div>';

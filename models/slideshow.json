@@ -1,0 +1,38 @@
+[
+  {
+    "imageUrl" : "images/slider/slide1.jpg",
+    "linkUrl" : "",
+    "altText" : "",
+    "caption" : {
+      "title" : "",
+      "description" : ""
+    }
+  },
+  {
+    "imageUrl" : "images/slider/slide2.jpg",
+    "linkUrl" : "",
+    "altText" : "",
+    "caption" : {
+      "title" : "",
+      "description" : ""
+    }
+  },
+  {
+    "imageUrl" : "images/slider/slide3.jpg",
+    "linkUrl" : "",
+    "altText" : "",
+    "caption" : {
+      "title" : "",
+      "description" : ""
+    }
+  },
+  {
+    "imageUrl" : "images/slider/slide4.jpg",
+    "linkUrl" : "",
+    "altText" : "",
+    "caption" : {
+      "title" : "",
+      "description" : ""
+    }
+  }
+]
