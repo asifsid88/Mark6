@@ -3,31 +3,31 @@
   "title": "Newly Launch",
   "content": [
     {
-      "imageUrl" : "src/img/products/1.jpg",
+      "imageUrl" : "src/img/new/1.jpg",
       "linkUrl" : "",
       "altText" : "",
       "buttonText" : "View"
     },
     {
-      "imageUrl" : "src/img/products/2.jpg",
+      "imageUrl" : "src/img/new/2.jpg",
       "linkUrl" : "",
       "altText" : "",
       "buttonText" : "View"
     },
     {
-      "imageUrl" : "src/img/products/3.jpg",
+      "imageUrl" : "src/img/new/3.jpg",
       "linkUrl" : "",
       "altText" : "",
       "buttonText" : "View"
     },
     {
-      "imageUrl" : "src/img/products/4.jpg",
+      "imageUrl" : "src/img/new/4.jpg",
       "linkUrl" : "",
       "altText" : "",
       "buttonText" : "View"
     },
     {
-      "imageUrl" : "src/img/products/5.jpg",
+      "imageUrl" : "src/img/new/5.jpg",
       "linkUrl" : "",
       "altText" : "",
       "buttonText" : "View"
