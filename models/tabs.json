@@ -1,0 +1,53 @@
+[
+  {
+  "title": "Newly Launch",
+  "content": [
+    {
+      "imageUrl" : "src/img/products/1.jpg",
+      "linkUrl" : "",
+      "altText" : "",
+      "buttonText" : "View"
+    },
+    {
+      "imageUrl" : "src/img/products/2.jpg",
+      "linkUrl" : "",
+      "altText" : "",
+      "buttonText" : "View"
+    },
+    {
+      "imageUrl" : "src/img/products/3.jpg",
+      "linkUrl" : "",
+      "altText" : "",
+      "buttonText" : "View"
+    },
+    {
+      "imageUrl" : "src/img/products/4.jpg",
+      "linkUrl" : "",
+      "altText" : "",
+      "buttonText" : "View"
+    },
+    {
+      "imageUrl" : "src/img/products/5.jpg",
+      "linkUrl" : "",
+      "altText" : "",
+      "buttonText" : "View"
+    }
+  ]
+  },
+  {
+    "title": "Upcoming",
+    "content": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Online Store",
+    "content": [
+      "",
+      "",
+      ""
+    ]
+  }
+]
