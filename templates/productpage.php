@@ -5,28 +5,28 @@
     }
 </style>
 
+<link rel="stylesheet" type="text/css" href="src/css/product-page.css" />
+
+<?php
+        $fileName = $_REQUEST["pid"];
+        if(!isset($fileName)) {
+            Utility::redirect();
+        }
+
+        $fileName = strtoupper($fileName);
+        $fileData = file_get_contents('models/products/' . $fileName . '.json');
+
+        if($fileData == null) {
+            Utility::redirect();
+        }
+
+        $product = json_decode($fileData, true);
+        ?>
+
 <div id="mark6-main-container-wrapper">
     <div id="mark6-main-container">
-        <div class="pure-g">
-            <div class="pure-u-7-12" style="border: 1px solid blue;">
-                <div class="pure-g" style="border: 1px solid black;">
-                    <div class="pure-u-5-24" style="border: 1px solid red;">
-                        <p>
-                            One-One
-                        </p>
-                    </div>
-                    <div class="pure-u-19-24" style="border: 1px solid red;">
-                        <p>
-                            One-Two
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="pure-u-5-12" style="border: 1px solid blue;">
-                <p>
-                    Two
-                </p>
-            </div>
-        </div>
+        <?php include('modules/product.php'); ?>
     </div>
 </div>
+
+<script type="text/javascript" src="src/javascript/product-page-thumbnail.js"></script>

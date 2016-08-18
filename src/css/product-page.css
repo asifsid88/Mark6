@@ -1,0 +1,17 @@
+.mark6-thumbnail-img {
+    border: 1px solid #d5d6d9;
+    margin-bottom: 0.25em;
+    cursor: pointer;
+}
+
+.mark6-thumbnail-img:hover {
+    border: 1px solid #899752;
+}
+
+.mark6-product-page-product {
+    padding-left: 0.5em;
+}
+
+#mark6-product-detail-img {
+    border: 1px solid #d5d6d9;
+}
