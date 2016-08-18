@@ -1,10 +1,3 @@
-<style type="text/css">
-    #mark6-main-container-wrapper {
-        top: 0;
-        margin: 1em;
-    }
-</style>
-
 <link rel="stylesheet" type="text/css" href="src/css/product-page.css" />
 
 <?php
