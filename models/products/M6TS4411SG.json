@@ -7,6 +7,12 @@
   "size" : [
     "S", "M", "L", "XL"
   ],
+  "thumbnail" : [
+    "src/img/products/M6TS4411SG/1.jpg",
+    "src/img/products/M6TS4411SG/2.jpg",
+    "src/img/products/M6TS4411SG/3.jpg",
+    "src/img/products/M6TS4411SG/4.jpg"
+  ],
   "description" : "This T-shirt from Mark6 is the perfect combination of style and comfort. Team it up with a pair of jeans or shorts and boat shoes for a laid-back look",
   "material" : "Cotton 100% pure",
   "tshirtType" : "Round neck",
