@@ -38,3 +38,4 @@
             echo $product["material"];
             ?></div>
 </div>
+<?php include('modules/sizeChart.php'); ?>
