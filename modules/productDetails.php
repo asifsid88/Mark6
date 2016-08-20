@@ -24,7 +24,7 @@
                         $imgUrl = "src/img/marketplace/" . strtolower($marketPlace["name"]) . ".jpg";
                         echo '<div class="mark6-marketplace">
                                 <img class="mark6-marketplace-img" src="' . $imgUrl . '" />
-                            . </div>';
+                              </div>';
                     }
                 }
                 ?>

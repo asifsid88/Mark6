@@ -7,5 +7,5 @@
 </div>
 
 <div id="mark6-footer">
-<?php include('modules/footer.php'); ?>
+    <?php include('modules/footer.php'); ?>
 </div>

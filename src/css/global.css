@@ -49,3 +49,22 @@ html > body {
 .clear-both {
     clear: both;
 }
+
+#mark6-footer {
+    margin-bottom: 4em;
+}
+
+#footer-text {
+    color: #696e79;
+}
+
+.footer-link {
+    color: #696e79;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #696e79;
+    text-decoration: underline;
+}

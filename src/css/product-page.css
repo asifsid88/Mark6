@@ -89,16 +89,25 @@
 }
 
 #mark6-marketplaces {
-    padding-bottom: 2em;
+    padding-bottom: 1em;
     border-bottom: 1px solid #d5d6d9;
 }
 
 .mark6-marketplace {
+    margin-bottom: 1em;
+    border: 1px solid #d5d6d9;
+    display: inline-block;
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    margin-right: 1em;
+}
 
+.mark6-marketplace:hover {
+    border: 1px solid #899752;
 }
 
 .mark6-marketplace-img {
-    height: 50px;
+    height: 25px;
     cursor: pointer;
 }
 
