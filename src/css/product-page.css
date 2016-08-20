@@ -32,10 +32,10 @@
 }
 
 #mark6-product-price {
-    font-size: 1.25em;
+    font-size: 1.5em;
     font-weight: bold;
     padding-top: 1em;
-    padding-bottom: 2em;
+    padding-bottom: 1em;
     border-bottom: 1px solid #d5d6d9;
 }
 
@@ -83,9 +83,10 @@
 }
 
 .size:hover {
-    background-color: #282c3f;
+    background-color: #899752;
     color: #fff;
     font-weight: 500;
+    border: 1px solid #899752;
 }
 
 #mark6-marketplaces {

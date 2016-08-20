@@ -19,11 +19,8 @@
 <div id="mark6-main-container-wrapper">
     <div id="mark6-main-container">
         <?php include('modules/product.php'); ?>
+        <?php include('modules/footer.php'); ?>
     </div>
-</div>
-
-<div id="mark6-footer">
-    <?php include('modules/footer.php'); ?>
 </div>
 
 <script type="text/javascript" src="src/javascript/product-page-thumbnail.js"></script>

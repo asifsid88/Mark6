@@ -51,6 +51,9 @@ html > body {
 }
 
 #mark6-footer {
+    border-top: 1px solid #d5d6d9;
+    margin-top: 3em;
+    padding-top: 2em;
     margin-bottom: 4em;
 }
 
@@ -67,4 +70,39 @@ html > body {
 .footer-link:hover {
     color: #696e79;
     text-decoration: underline;
+}
+
+.social {
+    height: 32px;
+    width: 32px;
+    background-image: url('../img/social-icon-set.png');
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    margin: 0;
+    margin-left: 0.5em;
+    cursor: pointer;
+}
+
+.follow {
+
+}
+
+.keep-in-touch {
+    display: inline-block;
+    vertical-align: super;
+    font-size: 1.5em;
+    margin-right: -11px;
+}
+
+.facebook {
+    background-position: 8px;
+}
+
+.instagram {
+    background-position: -64px 0px;
+}
+
+.twitter {
+    background-position: -32px 0px;
 }
