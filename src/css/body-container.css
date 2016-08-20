@@ -90,6 +90,29 @@
     margin-top: 6em;
 }
 
+#mark6-estores {
+    margin-top: 3em;
+    margin-left: 1.5em;
+}
+
+.mark6-estore {
+    margin-bottom: 2em;
+    border: 1px solid #d5d6d9;
+    display: inline-block;
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    margin-right: 3em;
+}
+
+.mark6-estore:hover {
+    border: 1px solid #899752;
+}
+
+.mark6-estore-img {
+    height: 50px;
+    cursor: pointer;
+}
+
 @media (min-width: 47.999em) {
 	/* Desktop-view **/
 	.mark6-product {

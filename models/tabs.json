@@ -41,9 +41,43 @@
     ]
   },
   {
-    "title": "Online Store",
+    "title": "e-store",
     "content": [
-
+      {
+        "imageUrl" : "src/img/marketplace/amazon.jpg",
+        "linkUrl" : "",
+        "altText" : ""
+      },
+      {
+        "imageUrl" : "src/img/marketplace/flipkart.jpg",
+        "linkUrl" : "",
+        "altText" : ""
+      },
+      {
+        "imageUrl" : "src/img/marketplace/jabong.jpg",
+        "linkUrl" : "",
+        "altText" : ""
+      },
+      {
+        "imageUrl" : "src/img/marketplace/myntra.jpg",
+        "linkUrl" : "",
+        "altText" : ""
+      },
+      {
+        "imageUrl" : "src/img/marketplace/paytm.jpg",
+        "linkUrl" : "",
+        "altText" : ""
+      },
+      {
+        "imageUrl" : "src/img/marketplace/shopclues.jpg",
+        "linkUrl" : "",
+        "altText" : ""
+      },
+      {
+        "imageUrl" : "src/img/marketplace/snapdeal.jpg",
+        "linkUrl" : "",
+        "altText" : ""
+      }
     ]
   }
 ]

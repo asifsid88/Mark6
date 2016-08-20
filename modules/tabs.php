@@ -17,16 +17,32 @@
                 echo '<div id="tab' . $i . '-content" class="mark6-tabs-content">
                         <div class="pure-g mark6-product-grid">';
 
-                foreach($tab["content"] as $content) {
-                    echo '<div class="pure-u-1 pure-u-md-1-6 mark6-product">
+                if($tab["title"] == strtolower("e-store")) {
+                    echo '<div id="mark6-estores">';
+                    foreach($tab["content"] as $content) {
+                        echo '<div class="mark6-estore">
+                                <img class="mark6-estore-img" src="' . $content["imageUrl"] . '" />
+                            </div>';
+                    }
+                    echo '</div>';
+
+                    $i++;
+                } else {
+                    foreach($tab["content"] as $content) {
+                        echo '<div class="pure-u-1 pure-u-md-1-6 mark6-product">
                                 <div class="mark6-product-img">
                                     <img class="pure-img" src="' . $content["imageUrl"] . '" alt="' . $content["altText"] . '" title="' . $content["altText"] . '" />
-                                </div>
-                                <div class="mark6-product-readmore-button">' . $content["buttonText"] . '</div>
-                            </div>';
+                                </div>';
+
+                        if($content["buttonText"] != "") {
+                            echo '<div class="mark6-product-readmore-button">' . $content["buttonText"] . '</div>';
+                        }
+                        echo '</div>';
+                    }
+
+                    $i++;
                 }
 
-                $i++;
                 echo '</div></div>';
             }
             ?>
