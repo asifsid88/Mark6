@@ -1,3 +1,12 @@
+<?php
+        $test = $_REQUEST["test"];
+        if(!isset($test)) {
+            echo 'Site is under construction';
+            die();
+        }
+        ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
