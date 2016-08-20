@@ -7,6 +7,8 @@
 body {
 	overflow-x: hidden;
 	display: block;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 html > body {
@@ -34,4 +36,16 @@ html > body {
 
 .hide {
 	display: none;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.clear-both {
+    clear: both;
 }

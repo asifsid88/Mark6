@@ -5,3 +5,7 @@
         <?php include('modules/tabs.php'); ?>
     </div>
 </div>
+
+<div id="mark6-footer">
+<?php include('modules/footer.php'); ?>
+</div>

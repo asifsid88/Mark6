@@ -2,7 +2,7 @@
   "productId" : "M6TS4411BG",
   "title" : "Mark6 Clothing Spider Round neck T-shirt",
   "price" : {
-    "mrp" : "999"
+    "mrp" : "Rs. 999"
   },
   "size" : [
     "S", "M", "L", "XL"
@@ -15,5 +15,19 @@
   ],
   "description" : "This T-shirt from Mark6 is the perfect combination of style and comfort. Team it up with a pair of jeans or shorts and boat shoes for a laid-back look",
   "material" : "Cotton 100% pure",
-  "tshirtType" : "Round neck"
+  "tshirtType" : "Round neck",
+  "marketPlace" : [
+    {
+      "name" : "Amazon",
+      "shopUrl" : ""
+    },
+    {
+      "name" : "Flipkart",
+      "shopUrl" : ""
+    },
+    {
+      "name" : "Snapdeal",
+      "shopUrl" : ""
+    }
+  ]
 }

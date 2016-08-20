@@ -20,3 +20,95 @@
 #mark6-product-detail-img {
     border: 1px solid #d5d6d9;
 }
+
+#mark6-product-description-wrapper {
+    padding: 0;
+    padding-left: 2em;
+}
+
+#mark6-product-title {
+    font-size: 1.75em;
+    color: #777;
+}
+
+#mark6-product-price {
+    font-size: 1.25em;
+    font-weight: bold;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #d5d6d9;
+}
+
+#mark6-product-size-wrapper {
+    margin-top: 2em;
+}
+
+#select-size {
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+#not-sure {
+    color: #94989f;
+}
+
+#size-chart-link {
+    font-size: 1em;
+    color: #526cd0;
+    cursor: pointer;
+    margin-right: 0.2em;
+}
+
+.size-wrapper {
+    margin-bottom: 2em;
+}
+
+.size {
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid #282c3f;
+    padding: 0;
+    min-width: 50px;
+    height: 50px;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    color: #282c3f;
+    line-height: 50px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    font-weight: 500;
+}
+
+.size:hover {
+    background-color: #282c3f;
+    color: #fff;
+    font-weight: 500;
+}
+
+#mark6-marketplaces {
+    padding-bottom: 2em;
+    border-bottom: 1px solid #d5d6d9;
+}
+
+#mark6-product-details {
+    margin-top: 2em;
+}
+
+.heading {
+    margin-bottom: 1em;
+    font-weight: bold;
+    color: #282c3f;
+}
+
+.desc {
+    margin-bottom: 1em;
+    font-weight: 500;
+    color: #696e79;
+}
+
+#mark6-material-desc {
+    margin-bottom: 2em;
+}

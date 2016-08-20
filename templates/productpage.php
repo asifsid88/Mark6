@@ -22,4 +22,8 @@
     </div>
 </div>
 
+<div id="mark6-footer">
+    <?php include('modules/footer.php'); ?>
+</div>
+
 <script type="text/javascript" src="src/javascript/product-page-thumbnail.js"></script>
