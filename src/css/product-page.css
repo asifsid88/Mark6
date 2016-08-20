@@ -93,6 +93,15 @@
     border-bottom: 1px solid #d5d6d9;
 }
 
+.mark6-marketplace {
+
+}
+
+.mark6-marketplace-img {
+    height: 50px;
+    cursor: pointer;
+}
+
 #mark6-product-details {
     margin-top: 2em;
 }

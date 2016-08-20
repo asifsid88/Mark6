@@ -19,15 +19,28 @@
   "marketPlace" : [
     {
       "name" : "Amazon",
-      "shopUrl" : ""
+      "shopUrl" : "",
+      "isEnabled" : true
     },
     {
       "name" : "Flipkart",
-      "shopUrl" : ""
+      "shopUrl" : "",
+      "isEnabled" : true
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : ""
+      "shopUrl" : "",
+      "isEnabled" : true
+    },
+    {
+      "name" : "Paytm",
+      "shopUrl" : "",
+      "isEnabled" : true
+    },
+    {
+      "name" : "Shopclues",
+      "shopUrl" : "",
+      "isEnabled" : true
     }
   ]
 }

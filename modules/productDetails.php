@@ -20,7 +20,12 @@
     <div id="mark6-marketplaces">
         <?php
                 foreach($product["marketPlace"] as $marketPlace) {
-                    echo '<div>' . $marketPlace["name"] . '</div>';
+                    if($marketPlace["isEnabled"]) {
+                        $imgUrl = "src/img/marketplace/" . strtolower($marketPlace["name"]) . ".jpg";
+                        echo '<div class="mark6-marketplace">
+                                <img class="mark6-marketplace-img" src="' . $imgUrl . '" />
+                            . </div>';
+                    }
                 }
                 ?>
     </div>
