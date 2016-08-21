@@ -9,7 +9,7 @@
         <div class="pure-menu pure-menu-horizontal custom-can-transform">
             <ul class="pure-menu-list">
                 <li class="pure-menu-item"><a href="#" class="pure-menu-link">Home</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Product</a></li>
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Catalog</a></li>
                 <li class="pure-menu-item"><a href="#" class="pure-menu-link">About Us</a></li>
                 <li class="pure-menu-item"><a href="#" class="pure-menu-link">Contact Us</a></li>
             </ul>

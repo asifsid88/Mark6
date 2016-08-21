@@ -1,0 +1,19 @@
+#mark6-main-container-wrapper {
+    top: 0;
+    margin: 1em;
+}
+
+.mark6-catalog-product {
+	margin: 1.5em 2.5em 1.5em 0;
+}
+
+.mark6-catalog-product-img {
+	border: 1px solid #d5d6d9;
+	margin: 0;
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+
+.mark6-catalog-product-img:hover {
+	border: 1px solid #899752;
+}

@@ -1,9 +1,11 @@
 {
   "productId" : "M6TS4411OG",
-  "title" : "Mark6 Clothing Spider Round neck T-shirt",
+  "name" : "Mark6 Clothing Spider Round neck T-shirt",
   "price" : {
-    "mrp" : "Rs. 999"
+    "mrp" : "Rs. 999",
+    "sellingprice" : "Rs. 499"
   },
+  "offer" : "50%",
   "size" : [
     "S", "M", "L", "XL"
   ],

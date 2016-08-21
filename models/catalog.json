@@ -1,0 +1,194 @@
+[
+  {
+    "productId" : "M6TS4411BG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4411OG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4411SG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4412BG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4412OG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4412SG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4413BG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4413OG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4413SG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4414BG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4414OG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  },
+  {
+    "productId" : "M6TS4414SG",
+    "name" : "Spider Round Neck Beige",
+    "price" : {
+      "mrp" : "Rs. 999",
+      "sellingprice" : "Rs. 499"
+    },
+    "size" : [
+      "S", "M", "L", "XL"
+    ],
+    "offer" : "50%",
+    "image" : {
+      "url" : "src/img/catalog/1.jpg",
+      "altText" : ""
+    }
+  }
+]

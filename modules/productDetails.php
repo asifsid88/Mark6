@@ -1,6 +1,6 @@
 <div id="mark6-product-description-wrapper">
     <div id="mark6-product-title"><?php
-            echo $product["title"];
+            echo $product["name"];
         ?></div>
     <div id="mark6-product-price"><?php
             echo $product["price"]["mrp"];
