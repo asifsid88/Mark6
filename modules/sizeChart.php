@@ -4,22 +4,22 @@
 <img class="pure-img" src="src/img/size-chart.jpg" />
 </div>
 <script>
-$("#size-chart-description").dialog({
+$('#size-chart-description').dialog({
 	autoOpen: false,
 	width: 600,
 	buttons: [
 		{
 			text: "Ok",
 			click: function() {
-				$(this).dialog("close");
+				$(this).dialog('close');
 			}
 		}
 	]
 });
 
 // Link to open the dialog
-$("#size-chart-link").click(function(event) {
-	$("#size-chart-description").dialog("open");
+$('#size-chart-link').click(function(event) {
+	$('#size-chart-description').dialog('open');
 	event.preventDefault();
 });
 </script>
