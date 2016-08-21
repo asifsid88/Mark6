@@ -35,7 +35,7 @@
                                 </div>';
 
                         if($content["buttonText"] != "") {
-                            echo '<div class="mark6-product-readmore-button">' . $content["buttonText"] . '</div>';
+                            echo '<div class="mark6-product-readmore-button" data-attr-link="' . $content["linkUrl"] . '">' . $content["buttonText"] . '</div>';
                         }
                         echo '</div>';
                     }
@@ -47,3 +47,10 @@
             }
             ?>
 </div>
+
+<script type="text/javascript">
+$('.mark6-product-readmore-button').on('click', function() {
+    var url = $(this).attr('data-attr-link');
+    window.location.href = url;
+});
+</script>
