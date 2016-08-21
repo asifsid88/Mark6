@@ -6,3 +6,10 @@
         <?php include('modules/footer.php'); ?>
     </div>
 </div>
+
+<style type="text/css">
+#mark6-footer {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+</style>
