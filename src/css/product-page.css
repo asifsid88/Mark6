@@ -13,10 +13,6 @@
     border: 1px solid #899752;
 }
 
-.mark6-product-page-product {
-    padding-left: 0.5em;
-}
-
 #mark6-product-detail-img {
     border: 1px solid #d5d6d9;
 }
@@ -139,6 +135,10 @@
 
 @media (min-width: 47.999em) {
 	/* Desktop-view **/
+	.mark6-product-page-product {
+        padding-left: 0.5em;
+    }
+
     .mark6-product-page-thumbnail {
         display: block;
     }
