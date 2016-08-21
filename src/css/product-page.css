@@ -23,12 +23,12 @@
 
 #mark6-product-description-wrapper {
     padding: 0;
-    padding-left: 2em;
 }
 
 #mark6-product-title {
     font-size: 1.75em;
     color: #777;
+    margin-top: 1em;
 }
 
 #mark6-product-price {
@@ -130,4 +130,24 @@
 
 #mark6-material-desc {
     margin-bottom: 2em;
+}
+
+
+.mark6-product-page-thumbnail {
+    display: none;
+}
+
+@media (min-width: 47.999em) {
+	/* Desktop-view **/
+    .mark6-product-page-thumbnail {
+        display: block;
+    }
+
+    #mark6-product-description-wrapper {
+        padding-left: 2em;
+    }
+
+    #mark6-product-title {
+        margin-top: 0;
+    }
 }

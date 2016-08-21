@@ -4,7 +4,7 @@
 }
 
 .mark6-catalog-product {
-	margin: 1.5em 2.5em 2em 0;
+	margin: 1.5em 0 2em 0;
 }
 
 .mark6-catalog-product-img {
@@ -26,4 +26,11 @@
 .mark6-catalog-product-price {
     color: #282c3f;
     font-weight: bold;
+}
+
+@media (min-width: 47.999em) {
+	/* Desktop-view **/
+    .mark6-catalog-product {
+        margin: 1.5em 2.5em 2em 0;
+    }
 }
