@@ -1,7 +1,7 @@
 <div id="mark6-menu" class="custom-wrapper pure-g affix">
     <div class="pure-u-1 pure-u-md-1-2 vertical-center">
         <div class="pure-menu">
-            <a href="#" class="pure-menu-heading custom-brand"><img src="src/img/logo.png" id="mark6-logo" /></a>
+            <a href="/index.php" class="pure-menu-heading custom-brand"><img src="src/img/logo.png" id="mark6-logo" /></a>
             <a class="custom-toggle" id="toggle"><s class="bar"></s><s class="bar"></s></a>
         </div>
     </div>
