@@ -52,9 +52,11 @@ html > body {
 
 #mark6-footer {
     border-top: 1px solid #d5d6d9;
-    margin-top: 3em;
     padding-top: 2em;
+    margin-top: 3em;
     margin-bottom: 4em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
 }
 
 #footer-text {
@@ -85,7 +87,7 @@ html > body {
 }
 
 .follow {
-
+    margin-bottom: 1.5em;
 }
 
 .keep-in-touch {
