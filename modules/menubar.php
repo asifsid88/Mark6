@@ -8,10 +8,10 @@
     <div class="pure-u-1 pure-u-md-1-2 vertical-center" id="menu-items">
         <div class="pure-menu pure-menu-horizontal custom-can-transform">
             <ul class="pure-menu-list">
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Home</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Catalog</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">About Us</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Contact Us</a></li>
+                <li class="pure-menu-item"><a href="/index.php" class="pure-menu-link">Home</a></li>
+                <li class="pure-menu-item"><a href="/search.php" class="pure-menu-link">Catalog</a></li>
+                <li class="pure-menu-item"><a href="/aboutus.php" class="pure-menu-link">About Us</a></li>
+                <li class="pure-menu-item"><a href="/contactus.php" class="pure-menu-link">Contact Us</a></li>
             </ul>
         </div>
     </div>

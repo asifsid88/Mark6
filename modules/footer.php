@@ -8,8 +8,8 @@
         </div>
         <div class="clear-both"></div>
         <div>
-            <div class="float-left">Have issues? <a href="" class="footer-link">Contact Us</a></div>
-            <div class="float-right">&copy; <?php echo date("Y"); ?> <a href="" class="footer-link">www.mark6.in</a>. All rights reserved.</div>
+            <div class="float-left">Have issues? <a href="/contactus.php" class="footer-link">Contact Us</a></div>
+            <div class="float-right">&copy; <?php echo date("Y"); ?> <a href="/index.php" class="footer-link">www.mark6.in</a>. All rights reserved.</div>
         </div>
     </div>
 </div>
