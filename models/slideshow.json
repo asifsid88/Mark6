@@ -1,6 +1,6 @@
 [
   {
-    "imageUrl" : "images/slideshowr/slideshow1.jpg",
+    "imageUrl" : "images/slider/slideshow1.jpg",
     "linkUrl" : "",
     "altText" : "",
     "caption" : {
@@ -9,7 +9,7 @@
     }
   },
   {
-    "imageUrl" : "images/slideshowr/slideshow2.jpg",
+    "imageUrl" : "images/slider/slideshow2.jpg",
     "linkUrl" : "",
     "altText" : "",
     "caption" : {
@@ -18,7 +18,7 @@
     }
   },
   {
-    "imageUrl" : "images/slideshowr/slideshow3.jpg",
+    "imageUrl" : "images/slider/slideshow3.jpg",
     "linkUrl" : "",
     "altText" : "",
     "caption" : {
@@ -27,7 +27,7 @@
     }
   },
   {
-    "imageUrl" : "images/slideshowr/slideshow4.jpg",
+    "imageUrl" : "images/slider/slideshow4.jpg",
     "linkUrl" : "",
     "altText" : "",
     "caption" : {
