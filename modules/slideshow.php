@@ -8,7 +8,7 @@
                     $slideshowData = json_decode($fileData, true);
                     foreach($slideshowData as $slideshow) {
                         echo '<li>
-                                <a href="#"><img class="pure-img" src="' . $slideshow["imageUrl"] . '" alt="' . $slideshow["altText"] . '" title="' . $slideshow["altText"] . '" /></a>
+                                <a href="#"><img src="' . $slideshow["imageUrl"] . '" alt="' . $slideshow["altText"] . '" title="' . $slideshow["altText"] . '" /></a>
                                 <div class="flex-caption">
                                     <div class="caption_title_line">
                                         <h2>' . $slideshow["caption"]["title"] . '</h2>

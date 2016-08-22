@@ -7,6 +7,7 @@
     </div>
 </div>
 
+<script type="text/javascript" src="src/javascript/set-container-css.js"></script>
 <style type="text/css">
 #mark6-footer {
     margin-left: 0.5em;
