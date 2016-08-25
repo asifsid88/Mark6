@@ -5,31 +5,31 @@
     {
       "imageUrl" : "src/img/newlylaunch/1.jpg",
       "linkUrl" : "/product.php?pid=M6TS4411BG",
-      "altText" : "Mark6 Spider Beige",
+      "altText" : "Spider Round Neck Beige M6TS4411BG",
       "buttonText" : "View"
     },
     {
       "imageUrl" : "src/img/newlylaunch/2.jpg",
       "linkUrl" : "/product.php?pid=M6TS4413OG",
-      "altText" : "Mark6 Eagle Olive Green",
+      "altText" : "Fighting Eagles Round Neck Olive Green M6TS4413OG",
       "buttonText" : "View"
     },
     {
       "imageUrl" : "src/img/newlylaunch/3.jpg",
-      "linkUrl" : "/product.php?pid=M6TS4411SG",
-      "altText" : "Mark6 Spider Silver Grey",
+      "linkUrl" : "/product.php?pid=M6TS4411OG",
+      "altText" : "Spider Round Neck Olive Green M6TS4411OG",
       "buttonText" : "View"
     },
     {
       "imageUrl" : "src/img/newlylaunch/4.jpg",
       "linkUrl" : "/product.php?pid=M6TS4412BG",
-      "altText" : "Mark6 Costume Beige",
+      "altText" : "Costume Round Neck Beige M6TS4412BG",
       "buttonText" : "View"
     },
     {
       "imageUrl" : "src/img/newlylaunch/5.jpg",
-      "linkUrl" : "/product.php?pid=M6TS4414SG",
-      "altText" : "Mark6 Imagination Silver Grey",
+      "linkUrl" : "/product.php?pid=M6TS4414BG",
+      "altText" : "Imagination Round Neck Beige M6TS4414BG",
       "buttonText" : "View"
     }
   ]
