@@ -5,7 +5,7 @@
 
     <div id="mark6-tabs-content-panel">
         <div class="title" style="margin-top: 2em;">
-            Mohammed Arif Siddiqui
+            Arif Mohammed Siddiqui
         </div>
         <div class="description">
             <table class="contact">
