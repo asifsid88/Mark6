@@ -1,6 +1,6 @@
 {
   "productId" : "M6TS4414OG",
-  "name" : "Mark6 Clothing Spider Round neck T-shirt",
+  "name" : "Imagination Round Neck Olive Green M6TS4414OG",
   "price" : {
     "mrp" : "Rs. 999",
     "sellingprice" : "Rs. 499"
@@ -15,8 +15,8 @@
     "src/img/products/M6TS4414OG/3.jpg",
     "src/img/products/M6TS4414OG/4.jpg"
   ],
-  "description" : "This T-shirt from Mark6 is the perfect combination of style and comfort. Team it up with a pair of jeans or shorts and boat shoes for a laid-back look",
-  "material" : "Cotton 100% pure",
+  "description" : "This T-shirt from Mark6 is the perfect combination of style and comfort. Made from 100% cotton material, this T-shirt features a round neck with trendy multi-colored pigment print on the front.<ul><li>Brand name print</li><li>Round neck</li><li>Half sleeves</li><li>Cotton fabric</li><li>Regular fit</li></ul>Team this T-shirt with washed jeans and ankle boots for a jaunty look.",
+  "material" : "<ul><li>100% Cotton</li><li>Warm machine wash</li><li>Do not bleach</li><li>Do not tumble dry</li><li>Warm iron</li><li>Dry cleanable</li></ul>",
   "tshirtType" : "Round neck",
   "marketPlace" : [
     {
