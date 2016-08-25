@@ -110,3 +110,16 @@ html > body {
 .twitter {
     background-position: -32px 0px;
 }
+
+.have-issues {
+    margin-top: 1em;
+    float: right;
+}
+
+@media (min-width: 47.999em) {
+	/* Desktop-view **/
+	.have-issues {
+	    margin-top: 0;
+        float: left;
+    }
+}
