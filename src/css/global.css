@@ -85,7 +85,11 @@ html > body {
 }
 
 .follow {
-    margin-bottom: 1.5em;
+    margin-right: -25px;
+    -webkit-transform: scale(0.75);
+    -moz-transform: scale(0.75);
+    -ms-transform: scale(0.75);
+    transform: scale(0.75);
 }
 
 .keep-in-touch {
