@@ -42,7 +42,7 @@
     {
       "name" : "Shopclues",
       "shopUrl" : "",
-      "isEnabled" : true
+      "isEnabled" : false
     }
   ]
 }

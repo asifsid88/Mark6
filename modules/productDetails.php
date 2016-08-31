@@ -22,13 +22,17 @@
                 foreach($product["marketPlace"] as $marketPlace) {
                     if($marketPlace["isEnabled"]) {
                         $imgUrl = "src/img/marketplace/" . strtolower($marketPlace["name"]) . ".jpg";
-                        echo '<div class="mark6-marketplace">
+                        echo '<div class="mark6-marketplace" data-attr-link="' . $marketPlace["shopUrl"] . '">
                                 <img class="mark6-marketplace-img" src="' . $imgUrl . '" />
                               </div>';
                     }
                 }
                 ?>
     </div>
+    <div id="mark6-product-style-code" class="heading">Style Code</div>
+    <div id="mark6-product-style-code-desc" class="desc"><?php
+            echo $product["productId"];
+            ?></div>
     <div id="mark6-product-details" class="heading">Product Details</div>
     <div id="mark6-product-details-desc" class="desc"><?php
             echo $product["description"];
@@ -39,3 +43,11 @@
             ?></div>
 </div>
 <?php include('modules/sizeChart.php'); ?>
+
+<script type="text/javascript">
+$('.mark6-marketplace').on('click', function() {
+    var url = $(this).attr('data-attr-link');
+    var win = window.open(url, '_blank');
+    win.focus();
+});
+</script>
