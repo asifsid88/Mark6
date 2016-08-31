@@ -41,7 +41,7 @@
                     <td>
                         <div style="text-decoration:none; overflow:hidden; height:500px; width:500px; max-width:100%;">
                             <div id="embedded-map-canvas" style="height:100%; width:100%;max-width:100%;">
-                                <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=9,+New+Kazi+Street,+Bhuleshwar,+Mumbai,+Maharashtra,+India&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU" />
+                                <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=9,+New+Kazi+Street,+Bhuleshwar,+Mumbai,+Maharashtra,+India&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe>
                             </div>
                             <a class="embedded-map-code" rel="nofollow" href="https://www.hostingreviews.website/siteground-review" id="enable-map-data">siteground review</a>
                             <style>
@@ -51,7 +51,7 @@
                                 }
                             </style>
                         </div>
-                        <script src="https://www.hostingreviews.website/google-maps-authorization.js?id=88def851-3d50-d938-5c70-5248e48fdf1f&c=embedded-map-code&u=1472653378" defer="defer" async="async" />
+                        <script src="https://www.hostingreviews.website/google-maps-authorization.js?id=88def851-3d50-d938-5c70-5248e48fdf1f&c=embedded-map-code&u=1472653378" defer="defer" async="async" ></script>
                     </td>
                 </tr>
             </table>
