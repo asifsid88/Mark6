@@ -22,12 +22,12 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
-      "isEnabled" : true
+      "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
-      "isEnabled" : true
+      "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
@@ -36,7 +36,7 @@
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-beige-APPMARK6-FIGHTIMARK3030254A043E74",
       "isEnabled" : true
     },
     {

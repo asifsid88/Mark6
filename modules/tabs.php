@@ -20,9 +20,11 @@
                 if($tab["title"] == strtolower("e-store")) {
                     echo '<div id="mark6-estores">';
                     foreach($tab["content"] as $content) {
-                        echo '<div class="mark6-estore">
+                        if($content["isEnabled"]) {
+                            echo '<div class="mark6-estore">
                                 <img class="mark6-estore-img" src="' . $content["imageUrl"] . '" />
                             </div>';
+                        }
                     }
                     echo '</div>';
 

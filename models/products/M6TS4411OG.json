@@ -22,12 +22,12 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
-      "isEnabled" : true
+      "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
-      "isEnabled" : true
+      "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
@@ -36,7 +36,7 @@
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-spider-round-neck-olive-green-t-shirt-APPMARK6-SPIDERMARK303025F448C39B",
       "isEnabled" : true
     },
     {

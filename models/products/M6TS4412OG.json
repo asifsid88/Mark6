@@ -22,12 +22,12 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
-      "isEnabled" : true
+      "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
-      "isEnabled" : true
+      "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
@@ -36,7 +36,7 @@
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-costume-round-neck-olive-green-APPMARK6-COSTUMMARK303025EAF9FADD",
       "isEnabled" : true
     },
     {

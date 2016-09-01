@@ -40,37 +40,44 @@
       {
         "imageUrl" : "src/img/marketplace/amazon.jpg",
         "linkUrl" : "",
-        "altText" : ""
+        "altText" : "Amazon",
+        "isEnabled" : false
       },
       {
         "imageUrl" : "src/img/marketplace/flipkart.jpg",
         "linkUrl" : "",
-        "altText" : ""
+        "altText" : "Flipkart",
+        "isEnabled" : false
       },
       {
         "imageUrl" : "src/img/marketplace/jabong.jpg",
         "linkUrl" : "",
-        "altText" : ""
+        "altText" : "Jabong",
+        "isEnabled" : false
       },
       {
         "imageUrl" : "src/img/marketplace/myntra.jpg",
         "linkUrl" : "",
-        "altText" : ""
+        "altText" : "Myntra",
+        "isEnabled" : false
       },
       {
         "imageUrl" : "src/img/marketplace/paytm.jpg",
-        "linkUrl" : "",
-        "altText" : ""
+        "linkUrl" : "https://paytm.com/shop/search/?merchant=303025&mn=Mark6",
+        "altText" : "Paytm",
+        "isEnabled" : true
       },
       {
         "imageUrl" : "src/img/marketplace/shopclues.jpg",
         "linkUrl" : "",
-        "altText" : ""
+        "altText" : "Shopclues",
+        "isEnabled" : false
       },
       {
         "imageUrl" : "src/img/marketplace/snapdeal.jpg",
-        "linkUrl" : "",
-        "altText" : ""
+        "linkUrl" : "http://www.snapdeal.com/brand/mark6/men-apparel-tshirts?sort=plrty",
+        "altText" : "Snapdeal",
+        "isEnabled" : true
       }
     ]
   }
