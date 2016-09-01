@@ -21,7 +21,8 @@
                     echo '<div id="mark6-estores">';
                     foreach($tab["content"] as $content) {
                         if($content["isEnabled"]) {
-                            echo '<div class="mark6-estore">
+                            $linkUrl = $content["linkUrl"];
+                            echo '<div class="mark6-estore" data-attr-link="' . $linkUrl . '">
                                 <img class="mark6-estore-img" src="' . $content["imageUrl"] . '" />
                             </div>';
                         }
@@ -52,7 +53,12 @@
 
 <script type="text/javascript">
 $('.mark6-product-readmore-button').on('click', function() {
+    window.location.href = $(this).attr('data-attr-link');
+});
+
+$('.mark6-estore').on('click', function() {
     var url = $(this).attr('data-attr-link');
-    window.location.href = url;
+    var win = window.open(url, '_blank');
+    win.focus();
 });
 </script>
