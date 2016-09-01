@@ -35,3 +35,19 @@
     padding-left: 0;
     padding-right: 1em;
 }
+
+#mark6-location-google-map {
+    text-decoration:none;
+    overflow:hidden;
+    height:330px;
+    width:330px;
+    max-width:100%;
+}
+
+@media (min-width: 47.999em) {
+	/* Desktop-view **/
+	#mark6-location-google-map {
+        height:500px;
+        width:500px;
+    }
+}

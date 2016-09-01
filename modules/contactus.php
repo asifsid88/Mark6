@@ -39,7 +39,7 @@
             <table class="contact">
                 <tr>
                     <td>
-                        <div style="text-decoration:none; overflow:hidden; height:500px; width:500px; max-width:100%;">
+                        <div id="mark6-location-google-map">
                             <div id="embedded-map-canvas" style="height:100%; width:100%;max-width:100%;">
                                 <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=9,+New+Kazi+Street,+Bhuleshwar,+Mumbai,+Maharashtra,+India&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe>
                             </div>
