@@ -90,6 +90,10 @@
     font-weight: bold;
 }
 
+#menu-items {
+    width: 49% !important;
+}
+
 @media (max-width: 47.999em) {
     .custom-toggle {
         display: block;
