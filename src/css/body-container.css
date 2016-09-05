@@ -130,9 +130,18 @@
     	-ms-transform: translate(-50%, 0);
     	-webkit-transform: translate(-50%, 0);
     	transform: translate(-50%, 0);
+    	background-image: url(/images/bgpic.jpg);
+    	background-size: cover;
+    	background-position: center;
+    	height: calc(100vw/2.5352);
+    	-webkit-filter: blur(30px);
+    	-o-filter: blur(30px);
+    	-moz-filter: blur(30px);
+    	-ms-filter: blur(30px);
 	}
 
 	#mark6-main-container-wrapper {
+		top: calc(100vw/2.5352);
 		z-index: 5;
 		position: relative;
 		min-height: 450px;

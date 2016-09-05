@@ -2,6 +2,11 @@
     display: block;
 }
 
+.container{
+    max-width: 960px;
+    margin: auto;
+}
+
 #mark6-menu.affix {
     top: 0;
     width: 100%;
@@ -93,8 +98,17 @@
 #menu-items {
     width: 49% !important;
 }
+@media (min-width: 47.999em) {
+    .logo{
+        padding-left: 0px;
+    }
+    #menu-items {
+        text-align: right;
+    }
+}
 
 @media (max-width: 47.999em) {
+
     .custom-toggle {
         display: block;
     }
