@@ -12,7 +12,7 @@
                     <li class="pure-menu-item"><a href="/index.php" class="pure-menu-link">Home</a></li>
                     <li class="pure-menu-item"><a href="/search.php" class="pure-menu-link">Catalog</a></li>
                     <li class="pure-menu-item"><a href="/aboutus.php" class="pure-menu-link">About Us</a></li>
-                    <li class="pure-menu-item"><a href="/contactus.php" class="pure-menu-link">Contact Us</a></li>
+                    <li class="pure-menu-item"><a href="/contactus.php" class="pure-menu-link" style="padding-right: 0;">Contact Us</a></li>
                 </ul>
             </div>
         </div>

@@ -98,6 +98,7 @@
 #menu-items {
     width: 49% !important;
 }
+
 @media (min-width: 47.999em) {
     .logo{
         padding-left: 0px;
