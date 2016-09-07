@@ -41,7 +41,7 @@
                     <td>
                         <div id="mark6-location-google-map">
                             <div id="embedded-map-canvas" style="height:100%; width:100%;max-width:100%;">
-                                <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=9,+New+Kazi+Street,+Bhuleshwar,+Mumbai,+Maharashtra,+India&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe>
+                                <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Mark6+Traders+mumbai&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe>
                             </div>
                             <a class="embedded-map-code" rel="nofollow" href="https://www.hostingreviews.website/siteground-review" id="enable-map-data">siteground review</a>
                             <style>
