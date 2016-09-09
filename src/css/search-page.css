@@ -63,6 +63,13 @@
     font-weight: 500;
 }
 
+.size:hover {
+    background-color: #899752;
+    color: #fff;
+    font-weight: 500;
+    border: 1px solid #899752;
+}
+
 @media (min-width: 47.999em) {
 	/* Desktop-view **/
     .mark6-catalog-product {
