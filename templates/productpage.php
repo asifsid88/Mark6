@@ -13,6 +13,11 @@
             Utility::redirect();
         }
 
+        $sizeId = $_REQUEST["size"];
+        if(!isset($sizeId)) {
+            $sizeId = 0;
+        }
+
         $product = json_decode($fileData, true);
         ?>
 

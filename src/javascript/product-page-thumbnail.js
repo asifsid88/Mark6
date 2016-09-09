@@ -8,12 +8,10 @@ $('.mark6-thumbnail-img').on('hover', function(e) {
     }
 });
 
-$('.size:first').addClass('size-selected');
-
 $('.mark6-marketplace').on('click', function() {
     var url = $(this).attr('data-attr-link');
     var shopUrls = url.split(";");
-    var selectedSize = $('.size-selected').attr('data-attr-value');
+    var selectedSize = $('.size-selected').attr('data-attr-size-value');
 
     var win = window.open(shopUrls[selectedSize], '_blank');
     win.focus();

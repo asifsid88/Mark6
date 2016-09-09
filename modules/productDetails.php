@@ -16,7 +16,12 @@
     <?php
             $i=0;
             foreach($product["size"] as $size) {
-                echo '<div class="size" data-attr-value="' . $i++ . '">' . $size . '</div>';
+                $cssSizeSelected = "";
+                if($sizeId == $i) {
+                    $cssSizeSelected = "size-selected";
+                }
+
+                echo '<div class="size ' . $cssSizeSelected . '" data-attr-size-value="' . $i++ . '">' . $size . '</div>';
             }
             ?>
     </div>
