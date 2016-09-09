@@ -25,6 +25,8 @@
     font-size: 1.75em;
     color: #777;
     margin-top: 1em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #d5d6d9;
 }
 
 #mark6-product-price {
