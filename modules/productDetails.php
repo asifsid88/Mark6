@@ -4,7 +4,7 @@
         ?></div>
     <!-- Commenting Price
     <div id="mark6-product-price"><?php
-            echo $product["price"]["mrp"];
+            echo 'Rs. ' . $product["price"]["mrp"];
             ?></div>
     -->
     <div id="mark6-product-size-wrapper">
@@ -29,12 +29,13 @@
 
                     if any particular size doesn't exists then make it empty
                 */
-
+                echo '<div class="shop-now-text">Shop Now</div>';
                 foreach($product["marketPlace"] as $marketPlace) {
                     if($marketPlace["isEnabled"]) {
                         $imgUrl = "src/img/marketplace/" . strtolower($marketPlace["name"]) . ".jpg";
                         echo '<div class="mark6-marketplace" data-attr-link="' . $marketPlace["shopUrl"] . '">
                                 <img class="mark6-marketplace-img" src="' . $imgUrl . '" />
+                                <div class="marketplace-price">@ Rs.<strike>' . $product["price"]["mrp"] . '</strike>' . $marketPlace["price"] . '(' . $marketPlace["offer"] . '%Off)</div>
                               </div>';
                     }
                 }

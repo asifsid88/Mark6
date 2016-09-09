@@ -2,10 +2,9 @@
   "productId" : "M6TS4411BG",
   "name" : "Spider Round Neck Beige M6TS4411BG",
   "price" : {
-    "mrp" : "Rs. 999",
-    "sellingprice" : "Rs. 499"
+    "mrp" : "999",
+    "sellingprice" : "499"
   },
-  "offer" : "50%",
   "size" : [
     "S", "M", "L", "XL"
   ],
@@ -22,26 +21,36 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
       "shopUrl" : "http://www.snapdeal.com/product/mark6-beige-round-tshirt/627947280195;http://www.snapdeal.com/product/mark6-beige-round-tshirt/627947280195;http://www.snapdeal.com/product/mark6-beige-round-tshirt/627947280195;http://www.snapdeal.com/product/mark6-beige-round-tshirt/627947280195",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
       "shopUrl" : "https://paytm.com/shop/p/mark6-spider-round-neck-beige-APPMARK6-SPIDERMARK303025957A88DE;https://paytm.com/shop/p/mark6-spider-round-neck-beige-APPMARK6-SPIDERMARK303025957A88DE;https://paytm.com/shop/p/mark6-spider-round-neck-beige-APPMARK6-SPIDERMARK303025957A88DE;https://paytm.com/shop/p/mark6-spider-round-neck-beige-APPMARK6-SPIDERMARK303025957A88DE",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Shopclues",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     }
   ]
