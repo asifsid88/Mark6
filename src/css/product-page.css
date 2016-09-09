@@ -110,11 +110,12 @@
 
 .shop-now-text {
     text-transform: uppercase;
-    font-weight: 500
+    font-weight: 500;
+    margin-bottom: 1em;
 }
 
 .mark6-marketplace-wrapper {
-    margin-top: 1em;
+
 }
 
 .marketplace-price {
