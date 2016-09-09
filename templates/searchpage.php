@@ -12,3 +12,5 @@
         <?php include('modules/footer.php'); ?>
     </div>
 </div>
+
+<script type="text/javascript" src="src/javascript/search-page.js"></script>

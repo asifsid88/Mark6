@@ -50,15 +50,3 @@
             }
             ?>
 </div>
-
-<script type="text/javascript">
-$('.mark6-product-readmore-button').on('click', function() {
-    window.location.href = $(this).attr('data-attr-link');
-});
-
-$('.mark6-estore').on('click', function() {
-    var url = $(this).attr('data-attr-link');
-    var win = window.open(url, '_blank');
-    win.focus();
-});
-</script>

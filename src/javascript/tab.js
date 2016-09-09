@@ -22,4 +22,13 @@ $('.mark6-tabs').on('click', function (e) {
 
 $('#tab1').trigger('click');
 
+$('.mark6-product-readmore-button').on('click', function() {
+    window.location.href = $(this).attr('data-attr-link');
+});
+
+$('.mark6-estore').on('click', function() {
+    var url = $(this).attr('data-attr-link');
+    var win = window.open(url, '_blank');
+    win.focus();
+});
 })(this, this.document);

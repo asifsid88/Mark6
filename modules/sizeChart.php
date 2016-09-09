@@ -17,7 +17,6 @@ $('#size-chart-description').dialog({
 	]
 });
 
-// Link to open the dialog
 $('#size-chart-link').click(function(event) {
 	$('#size-chart-description').dialog('open');
 	event.preventDefault();

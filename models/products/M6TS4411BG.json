@@ -31,12 +31,12 @@
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : "http://www.snapdeal.com/product/mark6-beige-round-tshirt/627947280195",
+      "shopUrl" : "http://www.snapdeal.com/product/mark6-beige-round-tshirt/627947280195;http://www.snapdeal.com/product/mark6-beige-round-tshirt/627947280195;http://www.snapdeal.com/product/mark6-beige-round-tshirt/627947280195;http://www.snapdeal.com/product/mark6-beige-round-tshirt/627947280195",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "https://paytm.com/shop/p/mark6-spider-round-neck-beige-APPMARK6-SPIDERMARK303025957A88DE",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-spider-round-neck-beige-APPMARK6-SPIDERMARK303025957A88DE;https://paytm.com/shop/p/mark6-spider-round-neck-beige-APPMARK6-SPIDERMARK303025957A88DE;https://paytm.com/shop/p/mark6-spider-round-neck-beige-APPMARK6-SPIDERMARK303025957A88DE;https://paytm.com/shop/p/mark6-spider-round-neck-beige-APPMARK6-SPIDERMARK303025957A88DE",
       "isEnabled" : true
     },
     {

@@ -41,13 +41,13 @@
         "imageUrl" : "src/img/marketplace/amazon.jpg",
         "linkUrl" : "",
         "altText" : "Amazon",
-        "isEnabled" : false
+        "isEnabled" : true
       },
       {
         "imageUrl" : "src/img/marketplace/flipkart.jpg",
         "linkUrl" : "",
         "altText" : "Flipkart",
-        "isEnabled" : false
+        "isEnabled" : true
       },
       {
         "imageUrl" : "src/img/marketplace/jabong.jpg",

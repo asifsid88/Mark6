@@ -2,9 +2,11 @@
     <div id="mark6-product-title"><?php
             echo $product["name"];
         ?></div>
+    <!-- Commenting Price
     <div id="mark6-product-price"><?php
             echo $product["price"]["mrp"];
             ?></div>
+    -->
     <div id="mark6-product-size-wrapper">
         <div id="select-size" class="float-left">Select Size</div>
         <div class="float-right"><span id="not-sure">Not sure? </span><span id="size-chart-link">See Size Chart </span></div>
@@ -12,13 +14,22 @@
     <div class="clear-both"></div>
     <div class="size-wrapper">
     <?php
+            $i=0;
             foreach($product["size"] as $size) {
-                echo '<div class="size">' . $size . '</div>';
+                echo '<div class="size" data-attr-value="' . $i++ . '">' . $size . '</div>';
             }
             ?>
     </div>
     <div id="mark6-marketplaces">
         <?php
+                /**
+                    Values in shopUrl should be of format
+                    S;M;L;XL
+                    0 1 2 3
+
+                    if any particular size doesn't exists then make it empty
+                */
+
                 foreach($product["marketPlace"] as $marketPlace) {
                     if($marketPlace["isEnabled"]) {
                         $imgUrl = "src/img/marketplace/" . strtolower($marketPlace["name"]) . ".jpg";
@@ -43,11 +54,3 @@
             ?></div>
 </div>
 <?php include('modules/sizeChart.php'); ?>
-
-<script type="text/javascript">
-$('.mark6-marketplace').on('click', function() {
-    var url = $(this).attr('data-attr-link');
-    var win = window.open(url, '_blank');
-    win.focus();
-});
-</script>
