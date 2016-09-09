@@ -90,7 +90,6 @@
 #mark6-marketplaces {
     padding-bottom: 1em;
     border-bottom: 1px solid #d5d6d9;
-    cursor: pointer;
 }
 
 .mark6-marketplace {
@@ -100,6 +99,7 @@
     padding: 0.5em 1em;
     border-radius: 50px;
     margin-right: 1em;
+    cursor: pointer;
 }
 
 .mark6-marketplace:hover {
@@ -114,10 +114,6 @@
     text-transform: uppercase;
     font-weight: 500;
     margin-bottom: 1em;
-}
-
-.mark6-marketplace-wrapper {
-
 }
 
 .marketplace-price {
