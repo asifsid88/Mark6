@@ -12,20 +12,55 @@
 	margin: 0;
 	margin-bottom: 20px;
 	cursor: pointer;
+	position: relative;
 }
 
 .mark6-catalog-product-img:hover {
 	border: 1px solid #899752;
+	opacity: 0.7;
 }
 
 .mark6-catalog-product-name {
     text-align: center;
     color: #3e4152;
+    position: relative;
 }
 
 .mark6-catalog-product-price {
     color: #282c3f;
     font-weight: bold;
+}
+
+.mark6-catalog-product-img-hover {
+    border: 1px solid black;
+    position: absolute;
+    z-index: 100;
+    padding: 1em;
+    display: none;
+    bottom: 0;
+    width: 100%;
+    background: #fff;
+    border: none;
+    border-top: 1px solid #899752;
+}
+
+.size {
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid #282c3f;
+    padding: 0;
+    min-width: 22px;
+    height: 22px;
+    text-align: center;
+    margin-top: 0;
+    margin-right: 10px;
+    cursor: pointer;
+    color: #282c3f;
+    line-height: 22px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    font-weight: 500;
 }
 
 @media (min-width: 47.999em) {

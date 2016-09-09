@@ -4,7 +4,16 @@
                     echo '<div class="pure-u-1 pure-u-md-1-6 mark6-catalog-product" data-attr-productId="' . $product["productId"] . '">
                             <div class="mark6-catalog-product-img">
                                 <img class="pure-img" src="' . $product["image"]["url"] . '" alt="' . $product["image"]["altText"] . '" title="' . $product["image"]["altText"] . '" />
+                                <div class="mark6-catalog-product-img-hover">';
+
+                    $i=0;
+                    foreach($product["size"] as $size) {
+                        echo '<div class="size" data-attr-value="' . $i++ . '">' . $size . '</div>';
+                    }
+
+                    echo '</div>
                             </div>
+
                             <div class="mark6-catalog-product-name">'
                                 . $product["name"]
                                 . '<br/>'
