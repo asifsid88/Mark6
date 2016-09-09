@@ -1,10 +1,7 @@
 {
   "productId" : "M6TS4411BG",
   "name" : "Spider Round Neck Beige M6TS4411BG",
-  "price" : {
-    "mrp" : "999",
-    "sellingprice" : "499"
-  },
+  "mrp" : "999",
   "size" : [
     "S", "M", "L", "XL"
   ],

@@ -1,10 +1,7 @@
 {
   "productId" : "M6TS4412SG",
   "name" : "Costume Round Neck Steel Grey M6TS4412SG",
-  "price" : {
-    "mrp" : "999",
-    "sellingprice" : "499"
-  },
+  "mrp" : "999",
   "offer" : "50%",
   "size" : [
     "S", "M", "L", "XL"

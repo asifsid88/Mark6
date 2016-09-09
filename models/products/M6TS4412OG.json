@@ -1,10 +1,7 @@
 {
   "productId" : "M6TS4412OG",
   "name" : "Costume Round Neck Olive Green M6TS4412OG",
-  "price" : {
-    "mrp" : "999",
-    "sellingprice" : "499"
-  },
+  "mrp" : "999",
   "offer" : "50%",
   "size" : [
     "S", "M", "L", "XL"

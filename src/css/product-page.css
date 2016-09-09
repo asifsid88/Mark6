@@ -108,6 +108,36 @@
     height: 25px;
 }
 
+.shop-now-text {
+    text-transform: uppercase;
+    font-weight: 500
+}
+
+.mark6-marketplace-wrapper {
+    margin-top: 1em;
+}
+
+.marketplace-price {
+    line-height: 3em;
+}
+
+.mrp {
+
+}
+
+.selling-price {
+    font-weight: bold;
+    font-size: 2em;
+    font-style: italic;
+}
+
+.offer {
+    color: #899752;
+    font-size: 1.2em;
+    vertical-align: top;
+    font-style: italic;
+}
+
 #mark6-product-style-code {
     margin-top: 2em;
 }

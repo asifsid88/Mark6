@@ -1,10 +1,7 @@
 {
   "productId" : "M6TS4413SG",
   "name" : "Fighting Eagles Round Neck Steel Grey M6TS4413SG",
-  "price" : {
-    "mrp" : "999",
-    "sellingprice" : "499"
-  },
+  "mrp" : "999",
   "offer" : "50%",
   "size" : [
     "S", "M", "L", "XL"

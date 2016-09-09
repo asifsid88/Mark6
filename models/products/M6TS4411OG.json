@@ -1,10 +1,7 @@
 {
   "productId" : "M6TS4411OG",
   "name" : "Spider Round Neck Olive Green M6TS4411OG",
-  "price" : {
-    "mrp" : "999",
-    "sellingprice" : "499"
-  },
+  "mrp" : "999",
   "offer" : "50%",
   "size" : [
     "S", "M", "L", "XL"

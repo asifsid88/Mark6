@@ -1,10 +1,7 @@
 {
   "productId" : "M6TS4414BG",
   "name" : "Imagination Round Neck Beige M6TS4414BG",
-  "price" : {
-    "mrp" : "999",
-    "sellingprice" : "499"
-  },
+  "mrp" : "999",
   "offer" : "50%",
   "size" : [
     "S", "M", "L", "XL"

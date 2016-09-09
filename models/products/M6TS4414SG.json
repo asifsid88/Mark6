@@ -1,10 +1,7 @@
 {
   "productId" : "M6TS4414SG",
   "name" : "Imagination Round Neck Steel Grey M6TS4414SG",
-  "price" : {
-    "mrp" : "999",
-    "sellingprice" : "499"
-  },
+  "mrp" : "999",
   "offer" : "50%",
   "size" : [
     "S", "M", "L", "XL"

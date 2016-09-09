@@ -33,10 +33,20 @@
                 foreach($product["marketPlace"] as $marketPlace) {
                     if($marketPlace["isEnabled"]) {
                         $imgUrl = "src/img/marketplace/" . strtolower($marketPlace["name"]) . ".jpg";
-                        echo '<div class="mark6-marketplace" data-attr-link="' . $marketPlace["shopUrl"] . '">
+
+                        echo '<div class="mark6-marketplace-wrapper">
+                              <div class="mark6-marketplace float-left" data-attr-link="' . $marketPlace["shopUrl"] . '">
                                 <img class="mark6-marketplace-img" src="' . $imgUrl . '" />
-                                <div class="marketplace-price">@ Rs.<strike>' . $product["price"]["mrp"] . '</strike>' . $marketPlace["price"] . '(' . $marketPlace["offer"] . '%Off)</div>
+                              </div>
+
+                              <div class="marketplace-price">
+                                    <span class="mrp">@ Rs.<strike>' . $product["mrp"] . '</strike></span>
+                                    <span class="selling-price"> ' . $marketPlace["price"] . '</span>
+                                    <span class="offer">(' . $marketPlace["offer"] . '% Off)</span>
                               </div>';
+                        echo '</div>';
+
+                        echo '<div class="clear-both"></div>';
                     }
                 }
                 ?>
