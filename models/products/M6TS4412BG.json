@@ -19,26 +19,36 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : "http://www.snapdeal.com/product/mark6-beige-round-tshirt/648090956006",
+      "shopUrl" : "http://www.snapdeal.com/product/mark6-beige-round-tshirt/648090956006;http://www.snapdeal.com/product/mark6-beige-round-tshirt/648090956006;http://www.snapdeal.com/product/mark6-beige-round-tshirt/648090956006;http://www.snapdeal.com/product/mark6-beige-round-tshirt/648090956006",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "https://paytm.com/shop/p/mark6-costume-round-neck-beige-APPMARK6-COSTUMMARK3030253C708880",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-costume-round-neck-beige-APPMARK6-COSTUMMARK3030253C708880;https://paytm.com/shop/p/mark6-costume-round-neck-beige-APPMARK6-COSTUMMARK3030253C708880;https://paytm.com/shop/p/mark6-costume-round-neck-beige-APPMARK6-COSTUMMARK3030253C708880;https://paytm.com/shop/p/mark6-costume-round-neck-beige-APPMARK6-COSTUMMARK3030253C708880",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Shopclues",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     }
   ]

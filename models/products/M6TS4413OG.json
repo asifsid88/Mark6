@@ -19,26 +19,36 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : "http://www.snapdeal.com/product/mark6-green-round-tshirt/647683253093",
+      "shopUrl" : "http://www.snapdeal.com/product/mark6-green-round-tshirt/647683253093;http://www.snapdeal.com/product/mark6-green-round-tshirt/647683253093;http://www.snapdeal.com/product/mark6-green-round-tshirt/647683253093;http://www.snapdeal.com/product/mark6-green-round-tshirt/647683253093",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-olive-green-APPMARK6-FIGHTIMARK303025666B2366",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-olive-green-APPMARK6-FIGHTIMARK303025666B2366;https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-olive-green-APPMARK6-FIGHTIMARK303025666B2366;https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-olive-green-APPMARK6-FIGHTIMARK303025666B2366;https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-olive-green-APPMARK6-FIGHTIMARK303025666B2366",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Shopclues",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     }
   ]

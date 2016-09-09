@@ -19,26 +19,36 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : "http://www.snapdeal.com/product/mark6-green-round-tshirt/681263323764",
+      "shopUrl" : "http://www.snapdeal.com/product/mark6-green-round-tshirt/681263323764;http://www.snapdeal.com/product/mark6-green-round-tshirt/681263323764;http://www.snapdeal.com/product/mark6-green-round-tshirt/681263323764;http://www.snapdeal.com/product/mark6-green-round-tshirt/681263323764",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "https://paytm.com/shop/p/mark6-costume-round-neck-olive-green-APPMARK6-COSTUMMARK303025EAF9FADD",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-costume-round-neck-olive-green-APPMARK6-COSTUMMARK303025EAF9FADD;https://paytm.com/shop/p/mark6-costume-round-neck-olive-green-APPMARK6-COSTUMMARK303025EAF9FADD;https://paytm.com/shop/p/mark6-costume-round-neck-olive-green-APPMARK6-COSTUMMARK303025EAF9FADD;https://paytm.com/shop/p/mark6-costume-round-neck-olive-green-APPMARK6-COSTUMMARK303025EAF9FADD",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Shopclues",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     }
   ]

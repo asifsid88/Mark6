@@ -19,26 +19,36 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : "http://www.snapdeal.com/product/mark6-grey-round-tshirt/642571230078",
+      "shopUrl" : "http://www.snapdeal.com/product/mark6-grey-round-tshirt/642571230078;http://www.snapdeal.com/product/mark6-grey-round-tshirt/642571230078;http://www.snapdeal.com/product/mark6-grey-round-tshirt/642571230078;http://www.snapdeal.com/product/mark6-grey-round-tshirt/642571230078",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "https://paytm.com/shop/p/mark6-imagination-round-neck-steel-grey-APPMARK6-IMAGINMARK303025C622D822",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-imagination-round-neck-steel-grey-APPMARK6-IMAGINMARK303025C622D822;https://paytm.com/shop/p/mark6-imagination-round-neck-steel-grey-APPMARK6-IMAGINMARK303025C622D822;https://paytm.com/shop/p/mark6-imagination-round-neck-steel-grey-APPMARK6-IMAGINMARK303025C622D822;https://paytm.com/shop/p/mark6-imagination-round-neck-steel-grey-APPMARK6-IMAGINMARK303025C622D822",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Shopclues",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     }
   ]

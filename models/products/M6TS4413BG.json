@@ -19,26 +19,36 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : "http://www.snapdeal.com/product/mark6-beige-round-tshirt/637276507766",
+      "shopUrl" : "http://www.snapdeal.com/product/mark6-beige-round-tshirt/637276507766;http://www.snapdeal.com/product/mark6-beige-round-tshirt/637276507766;http://www.snapdeal.com/product/mark6-beige-round-tshirt/637276507766;http://www.snapdeal.com/product/mark6-beige-round-tshirt/637276507766",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-beige-APPMARK6-FIGHTIMARK3030254A043E74",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-beige-APPMARK6-FIGHTIMARK3030254A043E74;https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-beige-APPMARK6-FIGHTIMARK3030254A043E74;https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-beige-APPMARK6-FIGHTIMARK3030254A043E74;https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-beige-APPMARK6-FIGHTIMARK3030254A043E74",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Shopclues",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     }
   ]

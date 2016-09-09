@@ -19,26 +19,36 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : "http://www.snapdeal.com/product/mark6-beige-round-tshirt/667722684558",
+      "shopUrl" : "http://www.snapdeal.com/product/mark6-beige-round-tshirt/667722684558;http://www.snapdeal.com/product/mark6-beige-round-tshirt/667722684558;http://www.snapdeal.com/product/mark6-beige-round-tshirt/667722684558;http://www.snapdeal.com/product/mark6-beige-round-tshirt/667722684558",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "https://paytm.com/shop/p/mark6-imagination-round-neck-beige-APPMARK6-IMAGINMARK3030257F1ADCDE",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-imagination-round-neck-beige-APPMARK6-IMAGINMARK3030257F1ADCDE;https://paytm.com/shop/p/mark6-imagination-round-neck-beige-APPMARK6-IMAGINMARK3030257F1ADCDE;https://paytm.com/shop/p/mark6-imagination-round-neck-beige-APPMARK6-IMAGINMARK3030257F1ADCDE;https://paytm.com/shop/p/mark6-imagination-round-neck-beige-APPMARK6-IMAGINMARK3030257F1ADCDE",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Shopclues",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     }
   ]

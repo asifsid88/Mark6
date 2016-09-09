@@ -19,26 +19,36 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : "http://www.snapdeal.com/product/mark6-green-round-tshirt/665450482669",
+      "shopUrl" : "http://www.snapdeal.com/product/mark6-green-round-tshirt/665450482669;http://www.snapdeal.com/product/mark6-green-round-tshirt/665450482669;http://www.snapdeal.com/product/mark6-green-round-tshirt/665450482669;http://www.snapdeal.com/product/mark6-green-round-tshirt/665450482669",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "https://paytm.com/shop/p/mark6-spider-round-neck-olive-green-t-shirt-APPMARK6-SPIDERMARK303025F448C39B",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-spider-round-neck-olive-green-t-shirt-APPMARK6-SPIDERMARK303025F448C39B;https://paytm.com/shop/p/mark6-spider-round-neck-olive-green-t-shirt-APPMARK6-SPIDERMARK303025F448C39B;https://paytm.com/shop/p/mark6-spider-round-neck-olive-green-t-shirt-APPMARK6-SPIDERMARK303025F448C39B;https://paytm.com/shop/p/mark6-spider-round-neck-olive-green-t-shirt-APPMARK6-SPIDERMARK303025F448C39B",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Shopclues",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     }
   ]

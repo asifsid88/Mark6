@@ -19,26 +19,36 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : "http://www.snapdeal.com/product/mark6-grey-round-tshirt/674973031213",
+      "shopUrl" : "http://www.snapdeal.com/product/mark6-grey-round-tshirt/674973031213;http://www.snapdeal.com/product/mark6-grey-round-tshirt/674973031213;http://www.snapdeal.com/product/mark6-grey-round-tshirt/674973031213;http://www.snapdeal.com/product/mark6-grey-round-tshirt/674973031213",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-steel-grey-APPMARK6-FIGHTIMARK303025CE8E081",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-steel-grey-APPMARK6-FIGHTIMARK303025CE8E081;https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-steel-grey-APPMARK6-FIGHTIMARK303025CE8E081;https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-steel-grey-APPMARK6-FIGHTIMARK303025CE8E081;https://paytm.com/shop/p/mark6-fighting-eagles-round-neck-steel-grey-APPMARK6-FIGHTIMARK303025CE8E081",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Shopclues",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     }
   ]

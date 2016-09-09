@@ -19,26 +19,36 @@
     {
       "name" : "Amazon",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Flipkart",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     },
     {
       "name" : "Snapdeal",
-      "shopUrl" : "http://www.snapdeal.com/product/mark6-green-round-tshirt/642744975398",
+      "shopUrl" : "http://www.snapdeal.com/product/mark6-green-round-tshirt/642744975398;http://www.snapdeal.com/product/mark6-green-round-tshirt/642744975398;http://www.snapdeal.com/product/mark6-green-round-tshirt/642744975398;http://www.snapdeal.com/product/mark6-green-round-tshirt/642744975398",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Paytm",
-      "shopUrl" : "https://paytm.com/shop/p/mark6-imagination-round-neck-olive-green-APPMARK6-IMAGINMARK3030258BEA4443",
+      "shopUrl" : "https://paytm.com/shop/p/mark6-imagination-round-neck-olive-green-APPMARK6-IMAGINMARK3030258BEA4443;https://paytm.com/shop/p/mark6-imagination-round-neck-olive-green-APPMARK6-IMAGINMARK3030258BEA4443;https://paytm.com/shop/p/mark6-imagination-round-neck-olive-green-APPMARK6-IMAGINMARK3030258BEA4443;https://paytm.com/shop/p/mark6-imagination-round-neck-olive-green-APPMARK6-IMAGINMARK3030258BEA4443",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : true
     },
     {
       "name" : "Shopclues",
       "shopUrl" : "",
+      "price" : "499",
+      "offer" : "50",
       "isEnabled" : false
     }
   ]
