@@ -13,7 +13,7 @@ $('.mark6-marketplace').on('click', function() {
     var shopUrls = url.split(";");
     var selectedSize = $('.size-selected').attr('data-attr-size-value');
 
-    var shopUrl = shopUrls[selectedSize] === null || shopUrls[selectedSize] == "undefined" ? shopUrls[0] : shopUrls[selectedSize];
+    var shopUrl = shopUrls[selectedSize] == null || shopUrls[selectedSize] == "undefined" ? shopUrls[0] : shopUrls[selectedSize];
 
     var win = window.open(shopUrl, '_blank');
     win.focus();
