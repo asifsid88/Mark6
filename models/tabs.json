@@ -38,43 +38,43 @@
     "title": "e-store",
     "content": [
       {
-        "imageUrl" : "src/img/marketplace/amazon.jpg",
+        "imageUrl" : "src/img/marketplace/amazon-curve-logo.png",
         "linkUrl" : "https://www.amazon.in/s?marketplaceID=A21TJRUUN4KGV&me=A1CB2PTLW2O08H&merchant=A1CB2PTLW2O08H&redirect=true",
         "altText" : "Amazon",
         "isEnabled" : true
       },
       {
-        "imageUrl" : "src/img/marketplace/flipkart.jpg",
+        "imageUrl" : "src/img/marketplace/flipkart-curve-logo.png",
         "linkUrl" : "http://www.flipkart.com/mens-clothing/t-shirts/mark6~brand/pr?sid=2oq%2Cs9b%2Cj9y",
         "altText" : "Flipkart",
         "isEnabled" : true
       },
       {
-        "imageUrl" : "src/img/marketplace/jabong.jpg",
+        "imageUrl" : "src/img/marketplace/jabong-curve-logo.png",
         "linkUrl" : "",
         "altText" : "Jabong",
         "isEnabled" : false
       },
       {
-        "imageUrl" : "src/img/marketplace/myntra.jpg",
+        "imageUrl" : "src/img/marketplace/myntra-curve-logo.png",
         "linkUrl" : "",
         "altText" : "Myntra",
         "isEnabled" : false
       },
       {
-        "imageUrl" : "src/img/marketplace/paytm.jpg",
+        "imageUrl" : "src/img/marketplace/paytm-curve-logo.png",
         "linkUrl" : "https://paytm.com/shop/search/?merchant=303025&mn=Mark6",
         "altText" : "Paytm",
         "isEnabled" : true
       },
       {
-        "imageUrl" : "src/img/marketplace/shopclues.jpg",
+        "imageUrl" : "src/img/marketplace/shopclues-curve-logo.png",
         "linkUrl" : "",
         "altText" : "Shopclues",
         "isEnabled" : false
       },
       {
-        "imageUrl" : "src/img/marketplace/snapdeal.jpg",
+        "imageUrl" : "src/img/marketplace/snapdeal-curve-logo.png",
         "linkUrl" : "http://www.snapdeal.com/brand/mark6/men-apparel-tshirts?sort=plrty",
         "altText" : "Snapdeal",
         "isEnabled" : true
