@@ -94,20 +94,13 @@
 
 .mark6-marketplace {
     margin-bottom: 1em;
-    border: 1px solid #d5d6d9;
     display: inline-block;
-    padding: 0.5em 1em;
-    border-radius: 50px;
     margin-right: 1em;
     cursor: pointer;
 }
 
-.mark6-marketplace:hover {
-    border: 1px solid #899752;
-}
-
 .mark6-marketplace-img {
-    height: 25px;
+    height: 50px;
 }
 
 .shop-now-text {

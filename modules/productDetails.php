@@ -37,7 +37,7 @@
                 echo '<div class="shop-now-text">Shop Now</div>';
                 foreach($product["marketPlace"] as $marketPlace) {
                     if($marketPlace["isEnabled"]) {
-                        $imgUrl = "src/img/marketplace/" . strtolower($marketPlace["name"]) . ".jpg";
+                        $imgUrl = "src/img/marketplace/" . strtolower($marketPlace["name"]) . "-logo.png";
 
                         echo '<div class="mark6-marketplace-wrapper">
                               <div class="mark6-marketplace float-left" data-attr-link="' . $marketPlace["shopUrl"] . '">
