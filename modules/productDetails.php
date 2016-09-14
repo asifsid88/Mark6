@@ -34,7 +34,6 @@
 
                     if any particular size doesn't exists then make it empty
                 */
-                echo '<div class="shop-now-text">Shop Now</div>';
                 foreach($product["marketPlace"] as $marketPlace) {
                     if($marketPlace["isEnabled"]) {
                         $imgUrl = "src/img/marketplace/" . strtolower($marketPlace["name"]) . "-logo.png";
@@ -45,7 +44,7 @@
                               </div>
 
                               <div class="marketplace-price">
-                                    <span class="mrp">@ Rs.<strike>' . $product["mrp"] . '</strike></span>
+                                    <span class="mrp">&#8377; <strike>' . $product["mrp"] . '</strike></span>
                                     <span class="selling-price"> ' . $marketPlace["price"] . '</span>
                                     <span class="offer">(' . $marketPlace["offer"] . '% Off)</span>
                               </div>';

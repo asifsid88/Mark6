@@ -100,7 +100,7 @@
 }
 
 .mark6-marketplace-img {
-    height: 50px;
+    height: 60px;
 }
 
 .shop-now-text {
@@ -110,23 +110,23 @@
 }
 
 .marketplace-price {
-    line-height: 3em;
+    line-height: 60px;
 }
 
 .mrp {
-    font-size: 1em;
+    font-size: 1.5em;
 }
 
 .selling-price {
     font-weight: bold;
     font-size: 2em;
     font-style: italic;
+    color: #083c93;
 }
 
 .offer {
-    color: #899752;
+    color: #fb641b;
     font-size: 1.2em;
-    vertical-align: top;
     font-style: italic;
 }
 

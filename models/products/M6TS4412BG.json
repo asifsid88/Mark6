@@ -18,17 +18,17 @@
   "marketPlace" : [
     {
       "name" : "Amazon",
-      "shopUrl" : "",
+      "shopUrl" : "http://www.amazon.in/Mark6-Cotton-T-Shirt-M6TS4412BG-X-Large-X-Large/dp/B01LPRVF96?ie=UTF8&m=A1CB2PTLW2O08H&qid=1473881584&ref_=sr_1_5&s=merchant-items&sr=1-5",
       "price" : "499",
       "offer" : "50",
-      "isEnabled" : false
+      "isEnabled" : true
     },
     {
       "name" : "Flipkart",
-      "shopUrl" : "",
+      "shopUrl" : "https://www.flipkart.com/mark6-printed-men-s-round-neck-beige-t-shirt/p/itmehyzbwnspjmy8?pid=TSHEHYZBQUVMFHZB&srno=s_1_8&otracker=search&lid=LSTTSHEHYZBQUVMFHZBM88E1J&qH=dd823da3e72a0488",
       "price" : "499",
       "offer" : "50",
-      "isEnabled" : false
+      "isEnabled" : true
     },
     {
       "name" : "Snapdeal",
