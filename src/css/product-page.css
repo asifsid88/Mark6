@@ -150,9 +150,18 @@
     margin-bottom: 2em;
 }
 
-
 .mark6-product-page-thumbnail {
     display: none;
+}
+
+.mark6-product-page-mobile-thumbnail {
+    display: block;
+    margin-top: 1em;
+}
+
+.mark6-product-page-mobile-thumbnail .pure-g .pure-u-1-6 {
+    margin-right: 1em;
+    cursor: pointer;
 }
 
 @media (min-width: 47.999em) {
@@ -163,6 +172,10 @@
 
     .mark6-product-page-thumbnail {
         display: block;
+    }
+
+    .mark6-product-page-mobile-thumbnail {
+        display: none;
     }
 
     #mark6-product-description-wrapper {
