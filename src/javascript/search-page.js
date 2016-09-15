@@ -17,7 +17,7 @@ $('.size').on('click', function() {
 });
 
 $('.mark6-catalog-product-img > img').on('click', function() {
-    $('.size').first().trigger('click');
+    $(this).next().find('.size').first().trigger('click');
 });
 
 })(this, this.document);
