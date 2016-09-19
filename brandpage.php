@@ -39,6 +39,7 @@
     </style>
 </head>
 <body style="background-color: #1E5247">
+    <?php include_once("modules/google-tag.php") ?>
     <?php include_once("modules/analyticstracking.php") ?>
     <div class="brand-logo">
         <img src="src/img/brand_logo.png" /><br/>
