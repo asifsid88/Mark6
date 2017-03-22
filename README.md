@@ -22,6 +22,6 @@ Secret of Quality:
 Infrastructure:  
 We have integrated our facilities keeping in tune with our product specialization. Every core technology and manpower area has been systematically integrated. Quality being the pride of Mark6 Traders, the machines and men are chosen based on scientific evaluation. Today, Mark6 Traders has the best of technology and the best of manpower working seamlessly to deliver best knitted Garments.
 
-Website: http://www.mark6.in/
-Facebook handle: https://www.facebook.com/pg/mark6clothing
-Instagram handle: instagram.com/mark6clothing
+Website: http://www.mark6.in/  
+Facebook handle: https://www.facebook.com/pg/mark6clothing  
+Instagram handle: instagram.com/mark6clothing  
