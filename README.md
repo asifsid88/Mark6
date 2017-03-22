@@ -24,4 +24,4 @@ We have integrated our facilities keeping in tune with our product specializatio
 
 Website: http://www.mark6.in/  
 Facebook handle: https://www.facebook.com/pg/mark6clothing  
-Instagram handle: instagram.com/mark6clothing  
+Instagram handle: https://www.instagram.com/mark6clothing/   
